@@ -47,7 +47,7 @@ Ticket purchases by hour show a distinct peak pattern during the day, with trans
 4. Ticket purchases follow a clear intraday pattern. Purchase volume by hour shows identifiable peak and off-peak windows, which could inform dynamic pricing strategies or targeted promotions during low-demand hours.
 <br>
 ## Dashboard Features
-KPI Cards: Total Transactions, Revenue, Total Tickets Sold, Average Ticket Price
+## KPI Cards: Total Transactions, Revenue, Total Tickets Sold, Average Ticket Price
 <br>
 Revenue by Month: Horizontal bar chart showing monthly revenue trend
 <br>
