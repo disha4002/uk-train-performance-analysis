@@ -80,3 +80,4 @@ Monitor month-over-month revenue trends over a longer time horizon to detect eme
 <br>
 
 ## Screenshot of the dashboard:
+![image alt](https://github.com/disha4002/uk-train-performance-analysis/blob/18a0b9f92ff67be85b84cfeaa5ae323415b42bbc/uk%20train%20rides.png)
